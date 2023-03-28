@@ -1,5 +1,9 @@
 # SpaceInvaders - Architecture of Real-time Systems
 <img src="images/Demo Final.png"> 
+
+Gameplay Demo: https://youtu.be/q-i6jsRGcRA
+Development Process Video: https://www.youtube.com/watch?v=vNCHKe4VKBs
+
 I recently completed a project that has been a significant milestone in my journey as a software engineer. I developed a Space Invaders game that required the use of design patterns to create a real-time data-driven application. This project was no small feat, and it took me 10 weeks to complete, during which I followed best practices in software engineering to ensure that I created a high-quality game.
 
 To develop this game, I used a combination of powerful tools and technologies that enabled me to build a robust and visually appealing game. For coding, I used Simple C# with Visual Studio 2019 Enterprise, which provided me with a range of functionalities to streamline my development process. To manage my codebase and enable version control, I used Perforce – Helix Visual Client, which allowed me to track changes, revert to previous versions, and collaborate with other team members. Finally, to create the graphical user interface, I used the Azul GUI Framework, which provided me with an extensive range of UI widgets and tools to create a seamless and engaging user experience.
