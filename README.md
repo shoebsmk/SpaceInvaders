@@ -2,6 +2,7 @@
 <img src="images/Demo Final.png"> 
 
 Gameplay Demo: https://youtu.be/q-i6jsRGcRA
+
 Development Process Video: https://www.youtube.com/watch?v=vNCHKe4VKBs
 
 I recently completed a project that has been a significant milestone in my journey as a software engineer. I developed a Space Invaders game that required the use of design patterns to create a real-time data-driven application. This project was no small feat, and it took me 10 weeks to complete, during which I followed best practices in software engineering to ensure that I created a high-quality game.
