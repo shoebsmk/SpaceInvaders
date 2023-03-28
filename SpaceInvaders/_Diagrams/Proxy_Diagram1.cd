@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceInvaders.SpriteGameProxy">
+    <Position X="28.25" Y="9.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.SpriteGameProxy.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite\SpriteGameProxy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAhABAAAAAgAgAAAAEQAAAABBgAAAADAA=</HashCode>
+      <FileName>Sprite\SpriteGameProxy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pSprite" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.SpriteGame">
+    <Position X="32" Y="9.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.SpriteGame.Name" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite\SpriteGame.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <InheritanceLine Type="SpaceInvaders.SpriteBase" FixedToPoint="true">
+      <Path>
+        <Point X="32.75" Y="8.454" />
+        <Point X="32.75" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="poAzulSprite" Type="Azul.Sprite" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="33.5" Y="11.813" />
+        <Point X="35.875" Y="11.813" />
+        <Point X="35.875" Y="11.812" />
+        <Point X="36.5" Y="11.812" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>gAQAIBAAAAAApABAQAgAoAAAAAAEQAAAARBgAABABAA=</HashCode>
+      <FileName>Sprite\SpriteGame.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poAzulSprite" />
+      <Field Name="poRect" />
+      <Field Name="poColor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Azul.Sprite" Collapsed="true">
+    <Position X="36.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SpaceInvaders.SpriteBase">
+    <Position X="32" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAQAA=</HashCode>
+      <FileName>Sprite\SpriteBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul.Rect" Collapsed="true">
+    <Position X="36.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Azul.Color" Collapsed="true">
+    <Position X="36.5" Y="13" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
