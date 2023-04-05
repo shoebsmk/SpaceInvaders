@@ -1,4 +1,5 @@
 # SpaceInvaders - Architecture of Real-time Systems
+Update: I've removed the code, however you can see the documentation.
 <img src="images/Demo Final.png"> 
 
 Gameplay Demo: https://youtu.be/q-i6jsRGcRA
